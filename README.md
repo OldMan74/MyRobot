@@ -1,4 +1,4 @@
- (# MyRobot
+# MyRobot
 This repository contains my work on developing a little robot.  
 I have decided to learn GitHub and use it as a location to explain the work I have done while trying to develop a working robot.  It will include, hopefully, the problems I ran into and how I came to solve them.  I began this project Mar 1, 2017 when I ordered the first hardware from Amazon.  My first decision: the robot will use the Raspberry Pi 3 as its main controller.  To that end I bought the following hardware from Amazon:
 * CanaKit Raspberry Pi 3 Complete Starter Kit - 32GB edition ($74.99)
